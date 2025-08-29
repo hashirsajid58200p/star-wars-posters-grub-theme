@@ -1,17 +1,17 @@
-## GTA 06 Poster 01 Preview
+## Star Wars Posters Preview
 
-![GTA 06 Poster 01](preview.jpg)
+![Star Wars Posters](preview.jpg)
 
 ---
 
 ## 📥 Installation Instructions
 **Step 1: Clone the theme repo**
 ```bash
-git clone https://github.com/hashirsajid58200p/gta-06-poster-01-grub-theme.git
+git clone https://github.com/hashirsajid58200p/star-wars-posters-grub-theme.git
 ```
 **Step 2: Go inside the theme folder**
 ```bash
-cd gta-06-poster-01-grub-theme
+cd star-wars-posters-grub-theme
 ```
 **Step 3. Run the installer script**
 ```bash
